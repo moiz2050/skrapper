@@ -1,4 +1,6 @@
-Awok's Assessment Test
+sKrapper
+
+sKrapper is an opensource php code that provide searched data from amazon in JSON format
 
 File Structure
 1. Core/curl.php (core class file)

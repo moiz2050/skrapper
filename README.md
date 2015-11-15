@@ -1,4 +1,6 @@
-## Awok's Assessment Test
+## sKrapper
+
+sKrapper is an opensource PHP code that provide searched data from amazon in JSON format
 
 ##### Core Class File
 
