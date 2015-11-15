@@ -2,7 +2,7 @@
 <html>
 <head lang="en">
     <meta charset="UTF-8">
-    <title>Awok's Assessment Test</title>
+    <title>sKrapper</title>
     <link rel="stylesheet" type="text/css" href="assets/custom.css">
 </head>
 <body>
